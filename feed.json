@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "English Class",
+    "description": "",
+    "home_page_url": "https://campanflaviu.github.io/english-class",
+    "feed_url": "https://campanflaviu.github.io/english-class/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Lorena"
+    },
+    "items": [
+        {
+            "id": "https://campanflaviu.github.io/english-class/homepage.html",
+            "url": "https://campanflaviu.github.io/english-class/homepage.html",
+            "title": "homepage",
+            "summary": "jhgjh",
+            "content_html": "<p>jhgjh</p>",
+            "author": {
+                "name": "Lorena"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-19T13:42:53+03:00",
+            "date_modified": "2020-07-19T13:42:53+03:00"
+        }
+    ]
+}
