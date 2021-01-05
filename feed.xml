@@ -10,22 +10,22 @@
     <id>https://campanflaviu.github.io/english-class</id>
 
     <entry>
-        <title>homepage</title>
+        <title>Curs de conversatie TED Talks</title>
         <author>
             <name>Lorena</name>
         </author>
         <link href="https://campanflaviu.github.io/english-class/homepage.html"/>
         <id>https://campanflaviu.github.io/english-class/homepage.html</id>
 
-        <updated>2020-07-19T13:46:29+03:00</updated>
+        <updated>2021-01-05T21:27:05+02:00</updated>
             <summary>
                 <![CDATA[
-                    jhgjh
+                    In cadrul acestor cursuri sau meditaţii individuale accentul este pus pe exersarea limbii engleze în&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>jhgjh</p>
+                <figure class="post__image"><img loading="lazy"  src="https://campanflaviu.github.io/english-class/media/posts/1/bruce-mars-AndE50aaHn4-unsplash.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://campanflaviu.github.io/english-class/media/posts/1/responsive/bruce-mars-AndE50aaHn4-unsplash-xs.jpg 300w ,https://campanflaviu.github.io/english-class/media/posts/1/responsive/bruce-mars-AndE50aaHn4-unsplash-sm.jpg 480w ,https://campanflaviu.github.io/english-class/media/posts/1/responsive/bruce-mars-AndE50aaHn4-unsplash-md.jpg 768w ,https://campanflaviu.github.io/english-class/media/posts/1/responsive/bruce-mars-AndE50aaHn4-unsplash-lg.jpg 1024w"  alt="" width="800" height="800"></figure>In cadrul acestor cursuri sau meditaţii individuale accentul este pus pe exersarea limbii engleze în mod practic prin dezbateri şi conversaţie. Temele variază de la renumitele prezentări TED (talk) până la diverse teme actuale preluate din articole din presa internaţională. Şedinţele sunt interactive şi este necesar un nivel intremediar de engleză de minim B1.</p>
             ]]>
         </content>
     </entry>

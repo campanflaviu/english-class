@@ -12,16 +12,16 @@
         {
             "id": "https://campanflaviu.github.io/english-class/homepage.html",
             "url": "https://campanflaviu.github.io/english-class/homepage.html",
-            "title": "homepage",
-            "summary": "jhgjh",
-            "content_html": "<p>jhgjh</p>",
+            "title": "Curs de conversatie TED Talks",
+            "summary": "In cadrul acestor cursuri sau meditaţii individuale accentul este pus pe exersarea limbii engleze în&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://campanflaviu.github.io/english-class/media/posts/1/bruce-mars-AndE50aaHn4-unsplash.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://campanflaviu.github.io/english-class/media/posts/1/responsive/bruce-mars-AndE50aaHn4-unsplash-xs.jpg 300w ,https://campanflaviu.github.io/english-class/media/posts/1/responsive/bruce-mars-AndE50aaHn4-unsplash-sm.jpg 480w ,https://campanflaviu.github.io/english-class/media/posts/1/responsive/bruce-mars-AndE50aaHn4-unsplash-md.jpg 768w ,https://campanflaviu.github.io/english-class/media/posts/1/responsive/bruce-mars-AndE50aaHn4-unsplash-lg.jpg 1024w\"  alt=\"\" width=\"800\" height=\"800\"></figure>In cadrul acestor cursuri sau meditaţii individuale accentul este pus pe exersarea limbii engleze în mod practic prin dezbateri şi conversaţie. Temele variază de la renumitele prezentări TED (talk) până la diverse teme actuale preluate din articole din presa internaţională. Şedinţele sunt interactive şi este necesar un nivel intremediar de engleză de minim B1.</p>",
             "author": {
                 "name": "Lorena"
             },
             "tags": [
             ],
-            "date_published": "2020-07-19T13:46:29+03:00",
-            "date_modified": "2020-07-19T13:46:29+03:00"
+            "date_published": "2021-01-05T21:27:05+02:00",
+            "date_modified": "2021-01-05T21:27:05+02:00"
         }
     ]
 }
